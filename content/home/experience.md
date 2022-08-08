@@ -25,25 +25,29 @@ experience:
   - title: Probabilistic Modelling Specialist - Advanced Analytics and AI
     company: Siemens Energy
     company_url: 'https://www.siemens-energy.com/ca/en/about.html'
-    company_logo: org-gc
+    company_logo: Siemens_Energy_logo
     location: Oakville
-    date_start: '2022-06-09'
+    date_start: '2022-09-06'
     date_end: ''
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Developing new methodologies for reliability based decision making along value chain.
+        * Dribing the roll-out of probabilistic modelling across the company.
+        * Documenting the developed methods and processes and present results to stakeholders.
 
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Application Programmer
+    company: Bank of America
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    company_logo: Bank_of_America_logo
+    location: Toronto
+    date_start: '2021-09-01'
+    date_end: '2022-08-19'
+    description: |2-
+        Responsibilites include:
+         
+        * Developed database management scripts using SQL.
+        * Deployed and orchestrated docker containers using Redhat Openshift. 
 
 design:
   columns: '2'
