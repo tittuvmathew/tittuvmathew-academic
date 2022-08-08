@@ -19,7 +19,7 @@ bio: My research interests include uncertainty quantification, data driven surro
 # Interests to show in About widget
 interests:
   - Computational Mechanics
-  - Bayesian Machine Learning
+  - Bayesian Statistics
   - Physics Informed Machine Learning
 
 # Education to show in About widget
@@ -61,6 +61,24 @@ social:
   - icon: researchgate
     icon_pack: ai
     link: https://www.researchgate.net/profile/Tittu-Varghese-Mathew
+  - icon: acclaim
+    icon_pack: ai
+    link: https://www.credly.com/users/tittu-varghese-mathew.f37a9655
+  - icon: academia
+    icon_pack: ai
+    link: https://independent.academia.edu/TittuVargheseMathew
+  - icon: orcid
+    icon_pack: ai
+    link: https://orcid.org/my-orcid?orcid=0000-0001-7459-3089
+  - icon: publons
+    icon_pack: ai
+    link: https://publons.com/wos-op/researcher/1529501/tittu-varghese-mathew/
+  - icon: scopus
+    icon_pack: ai
+    link: https://www.scopus.com/authid/detail.uri?authorId=57218285795
+  - icon: semantic-scholar
+    icon_pack: ai
+    link: https://www.semanticscholar.org/author/Tittu-Varghese-Mathew/48604894
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
