@@ -25,18 +25,18 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: tittu.v.mathew@alumni.iitm.ac.in
+  #email: tittu.v.mathew@alumni.iitm.ac.in
   phone: 647 787 6069
   address:
-    street: 9 Sumac Street
-    city: Barrie
+    street: 1577 North Service Road East
+    city: Oakville
     region: ON
-    postcode: 'L4N 9R8'
+    postcode: 'L6H OH6'
     country: Canada
     country_code: CA
   #coordinates:
-    #latitude: '37.4275'
-    #longitude: '-122.1697'
+    #latitude: '43.487976'  
+    #longitude: '79.674911'
   #directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
   office_hours:
     - 'Monday to Friday 09:00 to 17:00'
